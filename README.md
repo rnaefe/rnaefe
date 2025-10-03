@@ -30,5 +30,3 @@
 </p>
 
 ---
-
-✨ _“Bringing ideas to life. One line at a time.”_ ✨
