@@ -9,7 +9,7 @@
 ## 🔥 What I'm into
 - 🖥️ Full-stack web apps (Next.js, Node.js, MySQL, Tailwind)  
 - 🎮 Game development & roleplay servers (ESX / QBCore / WebRTC streaming)  
-- 📱 EdTech & social startups (UniMatch 🚀 campus-based dating app)  
+- 📱 EdTech & social startups
 - ⚡ Automation, bots, and security research  
 - 🎧 Music, travel, and always chasing the next big vibe  
 
