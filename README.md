@@ -1,45 +1,52 @@
-# 👋 Hey, I'm Dağlar Efe
+# 👋 Hey, I’m Dağlar Efe
 
-I'm a **Computer Science student** who enjoys building things on the web — clean, fast, and functional.  
-I like solving problems, learning new tools, and turning ideas into something that actually works.
+I’m a **Computer Science student** focused on building **clear, intentional systems** on the web.  
+I enjoy turning vague ideas into **small, working things** — with structure, restraint, and purpose.
 
----
-
-### 💻 What I Do
-- Build **web apps** using **Node.js, Express, and Next.js**  
-- Design simple and clear **user interfaces** with **Tailwind CSS**  
-- Work with **MariaDB + Prisma** for structured, maintainable databases  
-- Explore **WebRTC, real-time systems,** and AI-assisted development  
-
-I care about writing readable code, keeping projects modular, and making things that feel effortless to use.
+I care less about feature count, more about **why something exists and how it holds together**.
 
 ---
 
-### 🌐 My Website
+### 💻 What I Work On
+- Build **focused web applications** with **Node.js, Express, and Next.js**
+- Design **quiet, readable interfaces** using **Tailwind CSS**
+- Model data carefully with **relational databases**
+- Explore **real-time systems** and architectural trade-offs
+
+I value **clarity over cleverness**, and prefer fewer tools used well.
+
+---
+
+### 🌐 Personal Website
 🖥️ [daglarefe.com](https://daglarefe.com)  
-A minimalist personal site — dark, quiet, and simple.  
-Nothing fancy, just a space that reflects who I am.
+A minimalist personal site — dark, calm, and intentional.  
+Not a showcase. Just a place that reflects how I think.
 
 ---
 
-### 🧠 Mindset
-I like systems that make sense, and designs that don’t try too hard.  
-Less noise, more clarity.  
-> “Make it simple, but significant.”
+### 🧠 How I Think
+I like systems that explain themselves.  
+Designs that don’t shout.  
+Code that looks inevitable in hindsight.
+
+> *Make it simple, but significant.*
 
 ---
 
 ### ⚙️ Tools I Use
-`JavaScript` · `Node.js` · `Express` · `Next.js` · `MariaDB` · `Prisma` · `Tailwind CSS`  
+`JavaScript` · `TypeScript` · `Node.js` · `Express` · `Next.js`  
+`HTML` · `CSS` · `Tailwind CSS`  
+`PostgreSQL` · `MariaDB` · `Prisma`  
+`REST APIs` · `WebSockets` · `Git` · `Linux`
 
 ---
 
 ### 📫 Reach Out
-- GitHub: [rnaefe](https://github.com/rnaefe)  
-- LinkedIn: [Dağlar Efe Göksoy](https://linkedin.com/in/dağlar-efe-göksoy-7008a5386)  
+- GitHub: [rnaefe](https://github.com/rnaefe)
+- LinkedIn: [Dağlar Efe Göksoy](https://linkedin.com/in/dağlar-efe-göksoy-7008a5386)
 - Email: [dağlar@daglarefe.com](mailto:dağlar@daglarefe.com)
 
 ---
 
-**© 2025 Dağlar Efe Göksoy**  
+**© 2026 Dağlar Efe Göksoy**  
 Clean code. Clear intent.
