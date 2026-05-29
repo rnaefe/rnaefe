@@ -1,52 +1,45 @@
-# 👋 Hey, I’m Dağlar Efe
+# hey, i'm Dağlar
 
-I’m a **Computer Science student** focused on building **clear, intentional systems** on the web.  
-I enjoy turning vague ideas into **small, working things** — with structure, restraint, and purpose.
+backend-focused software engineer, CS student, and builder.
 
-I care less about feature count, more about **why something exists and how it holds together**.
+I like turning messy workflows into backend systems, dashboards, and tools that people actually use.
 
----
+Mostly working around:
 
-### 💻 What I Work On
-- Build **focused web applications** with **Node.js, Express, and Next.js**
-- Design **quiet, readable interfaces** using **Tailwind CSS**
-- Model data carefully with **relational databases**
-- Explore **real-time systems** and architectural trade-offs
+```txt
+APIs • databases • real-time systems • dashboards • deployments
+```
 
-I value **clarity over cleverness**, and prefer fewer tools used well.
+## stack
 
----
+```txt
+Node.js / Express / Next.js
+TypeScript / JavaScript / SQL / Lua
+MySQL / PostgreSQL / Redis / Elasticsearch
+Docker / Nginx / GitHub Actions / Linux VPS
+React / Tailwind / Zustand
+```
 
-### 🌐 Personal Website
-🖥️ [daglarefe.com](https://daglarefe.com)  
-A minimalist personal site — dark, calm, and intentional.  
-Not a showcase. Just a place that reflects how I think.
+## selected work
 
----
+**elastic-telemetry**  
+Flexible JSON ingest & search backend derived from a production system.  
+Turns raw event data into categorized, searchable views.
 
-### 🧠 How I Think
-I like systems that explain themselves.  
-Designs that don’t shout.  
-Code that looks inevitable in hindsight.
+→ https://github.com/rnaefe/elastic-telemetry
 
-> *Make it simple, but significant.*
+**fivem-watch**  
+Remote operator dashboard for multiplayer servers.  
+Streams player state, map position, and live session context over Socket.io.
 
----
+→ https://github.com/rnaefe/fivem-watch
 
-### ⚙️ Tools I Use
-`JavaScript` · `TypeScript` · `Node.js` · `Express` · `Next.js`  
-`HTML` · `CSS` · `Tailwind CSS`  
-`PostgreSQL` · `MariaDB` · `Prisma`  
-`REST APIs` · `WebSockets` · `Git` · `Linux`
+## currently interested in
 
----
+backend engineering, developer tools, real-time systems, internal tools, deployments, and products that actually ship.
 
-### 📫 Reach Out
-- GitHub: [rnaefe](https://github.com/rnaefe)
-- LinkedIn: [Dağlar Efe Göksoy](https://linkedin.com/in/dağlar-efe-göksoy-7008a5386)
-- Email: [dağlar@daglarefe.com](mailto:dağlar@daglarefe.com)
+## links
 
----
-
-**© 2026 Dağlar Efe Göksoy**  
-Clean code. Clear intent.
+portfolio: https://daglarefe.com  
+linkedin: https://linkedin.com/in/daglar-efe-goksoy  
+email: goksoyefadaglar@gmail.com
