@@ -42,4 +42,4 @@ software engineering, developer tools, real-time systems, internal tools, deploy
 
 portfolio: https://daglarefe.com  
 linkedin: https://linkedin.com/in/daglar-efe-goksoy  
-email: goksoyefadaglar@gmail.com
+email: goksoyefedaglar@gmail.com
