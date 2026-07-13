@@ -36,7 +36,7 @@ Streams player state, map position, and live session context over Socket.io.
 
 ## currently interested in
 
-backend engineering, developer tools, real-time systems, internal tools, deployments, and products that actually ship.
+software engineering, developer tools, real-time systems, internal tools, deployments, and products that actually ship.
 
 ## links
 
