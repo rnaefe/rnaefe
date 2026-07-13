@@ -1,6 +1,6 @@
 # hey, i'm Dağlar
 
-backend-focused software engineer, CS student, and builder.
+full-stack software engineer, CS student, and builder.
 
 I like turning messy workflows into backend systems, dashboards, and tools that people actually use.
 
